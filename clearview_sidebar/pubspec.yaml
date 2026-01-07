@@ -1,0 +1,28 @@
+name: clearview_sidebar
+description: "A clean, modern, customizable Flutter sidebar widget designed for dashboards, POS systems, and admin applications."
+version: 0.0.1
+homepage: "https://github.com/walter-kudzai-kamanga/clearview_sidebar"
+repository: "https://github.com/walter-kudzai-kamanga/clearview_sidebar"
+issue_tracker: "https://github.com/walter-kudzai-kamanga/clearview_sidebar/issues"
+
+topics:
+  - sidebar
+  - navigation
+  
+  - dashboard
+  - flutter-desktop
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
