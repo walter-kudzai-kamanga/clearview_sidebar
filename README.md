@@ -20,6 +20,15 @@ Import the package:
 import 'package:clearview_sidebar/clearview_sidebar.dart';
 ```
 
+## Images
+
+https://github.com/walter-kudzai-kamanga/clearview_sidebar/blob/main/assets/images/Screenshot_1767810696.png
+https://github.com/walter-kudzai-kamanga/clearview_sidebar/blob/main/assets/images/Screenshot_1767810696.png
+
+## Video
+
+https://github.com/walter-kudzai-kamanga/clearview_sidebar/blob/main/assets/videos/functioning.webm
+
 ## Quick example
 
 Here's a minimal example — adjust to your package API if names differ:
